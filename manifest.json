@@ -1,0 +1,36 @@
+{
+  "name": "SpaceX Starbase Urabá — Colombia al Universo",
+  "short_name": "SpaceX Urabá",
+  "description": "Puerto espacial SpaceX en el Golfo de Urabá, Colombia. La ubicación más estratégica del planeta para conquistar el universo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000814",
+  "theme_color": "#000814",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://www.spacex.com/static/images/share.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.spacex.com/static/images/share.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SpaceX-Starship-IFT-4-Launch.jpg/1280px-SpaceX-Starship-IFT-4-Launch.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "label": "SpaceX Starbase Urabá - Puerto Espacial Colombia"
+    }
+  ],
+  "categories": ["productivity", "education", "business"],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
